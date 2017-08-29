@@ -20,8 +20,7 @@ public class FDSMain {
 		// Michael da Costa M�ra
 		System.out.println("Hello, World! Comunitario! Michael\n");
 		
-		//Rodrigo Gonçalves
-		System.out.println("Hello, World! Comunitario! Rodrigo\n");
+	
 =======
 		
 		// Michael da Costa M�ra
@@ -36,13 +35,22 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Caio\n");
 		
 		// Vinícius Teixeira
-		System.out.println("Hello, World! Comunitario! Vinícius\n");
-		
+		System.out.println("Hello, World! Comunitario! Vinícius\n");		
+
 		// Diego Pimentel
 		System.out.println("Hello, World! Comunitario! Diego\n");
 		
 		//Priscilla Karolczak
-		System.out.pritln("Hello, World! Comuitario! Priscilla\n");
+		System.out.println("Hello, World! Comuitario! Priscilla\n");
+
+		//Lucas Antunes de Freitas
+		System.out.println("Hello, World! Comunitario! Lucas Freitas");		
+		
+		//Gianlucca Funari
+		System.out.println("Hello, World! Comunit�rio! Gianlucca\n");
+		
+		//Rodrigo Gonçalves
+		System.out.println("Hello, World! Comunitario! Rodrigo\n");
 
 
 >>>>>>> e8d467e5dc0078e82d3fc5c64c52e39a410025ea
