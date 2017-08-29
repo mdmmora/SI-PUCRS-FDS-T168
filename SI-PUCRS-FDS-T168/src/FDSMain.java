@@ -31,8 +31,10 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Diego\n");
 		
 		//Priscilla Karolczak
-		System.out.pritln("Hello, World! Comuitario! Priscilla\n");
-
+		System.out.println("Hello, World! Comuitario! Priscilla\n");
+		
+		//Gianlucca Funari
+		System.out.println("Hello, World! Comunitário! Gianlucca\n");
 
 	}
 
