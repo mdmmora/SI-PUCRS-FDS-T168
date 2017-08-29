@@ -13,6 +13,9 @@ public class FDSMain {
 		
 		// Caio Rodrigues
 		System.out.println("Hello, World! Comunitario! Caio\n");
+		
+		// Vinícius Teixeira
+		System.out.println("Hello, World! Comunitario! Vinícius\n");
 	}
 
 }
