@@ -26,6 +26,9 @@ public class FDSMain {
 		
 		// Vinícius Teixeira
 		System.out.println("Hello, World! Comunitario! Vinícius\n");
+		
+		// Diego Pimentel
+		System.out.println("Hello, World! Comunitario! Diego\n");
 
 	}
 
