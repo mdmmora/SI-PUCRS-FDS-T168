@@ -25,19 +25,20 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Caio\n");
 		
 		// Vinícius Teixeira
-		System.out.println("Hello, World! Comunitario! Vinícius\n");
-		
-<<<<<<< Updated upstream
+		System.out.println("Hello, World! Comunitario! Vinícius\n");		
+
 		// Diego Pimentel
 		System.out.println("Hello, World! Comunitario! Diego\n");
 		
 		//Priscilla Karolczak
-		System.out.pritln("Hello, World! Comuitario! Priscilla\n");
+		System.out.println("Hello, World! Comuitario! Priscilla\n");
 
-=======
 		//Lucas Antunes de Freitas
-		System.out.println("Hello, World! Comunitario! Lucas Freitas");
->>>>>>> Stashed changes
+		System.out.println("Hello, World! Comunitario! Lucas Freitas");		
+		
+		//Gianlucca Funari
+		System.out.println("Hello, World! Comunit�rio! Gianlucca\n");
+
 
 	}
 
