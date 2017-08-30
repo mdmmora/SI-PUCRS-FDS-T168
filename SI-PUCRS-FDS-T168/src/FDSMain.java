@@ -45,6 +45,9 @@ public class FDSMain {
 
 		//Camila Moser
 		System.out.println("Hello, World! Comunitario! Camila\n");	
+		
+		//Vinicius Oliveira
+		System.out.println("Hello, World! Comunitario! Vinicius Oliveira\n");	
 	}
 
 }
